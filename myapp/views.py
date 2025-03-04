@@ -68,7 +68,7 @@ def storefrom(req):
         obj.save()
 
        
-        return redirect('storetable')
+        return redirect('storetable2')
 
 
 
